@@ -1,0 +1,8 @@
+pokebase
+pyautogui
+pyqt6
+easyocr
+opencv-python
+pillow
+torch  # Necesario para EasyOCR
+
