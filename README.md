@@ -61,17 +61,17 @@ Usa el botón Recargar para buscar otro Pokémon.
 
 ## 🛠️ Requisitos
 
-Python 3.10+
+**Python 3.10+**
 
-Emulador DeSmuME instalado y funcionando.
+Emulador **DeSmuME** instalado y funcionando.
 
 Conexión a internet para descargar datos desde PokeAPI.
 
 ---
 
 ## 📋 Características
-OCR integrado: Detecta el nombre de los Pokémon directamente desde la ventana del emulador.
+**OCR integrado**: Detecta el nombre de los Pokémon directamente desde la ventana del emulador.
 
-Gráficos de stats: Muestra las estadísticas base de cada Pokémon con barras visuales y valores.
+**Gráficos de stats**: Muestra las estadísticas base de cada Pokémon con barras visuales y valores.
 
-Compatibilidad: Actualmente soporta solo DeSmuME (beta).
+**Compatibilidad**: Actualmente soporta solo DeSmuME (beta).
