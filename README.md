@@ -12,7 +12,7 @@ Un programa diseñado para capturar información de combates en emuladores de GB
 
 ### 1. Clona este repositorio
 ```bash
-git clone https://github.com/tu-usuario/pokestats.git
+git clone https://github.com/genexix05/pokestats.git
 cd pokestats
 ```
 
